@@ -1,4 +1,4 @@
-# techfel-template
+# Techfel
 
 Welcome to Techfel, a comprehensive website template designed to elevate your online presence. With a staggering 156 pages, this template offers unparalleled versatility, making it suitable for a wide range of purposes.
 
